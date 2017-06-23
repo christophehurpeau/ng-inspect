@@ -1,4 +1,4 @@
-ng-inspect-chrome
+ng-inspect
 =================
 
 Inspect angular scopes with right click

@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "ng-inspect",
-  "description": "Inspect the angular scope in the developper tools inspector.",
+  "description": "Inspect the angular scope",
   "version": "1.0",
 
   "permissions": [
